@@ -10,7 +10,7 @@ title: jturolla
 email: ^julio.turolla[@]?gmail[a-z.]+$
 description: > # this means to ignore newlines until "baseurl:"
   jturolla's website
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://julioturolla.com" # the base hostname & protocol for your site
 twitter_username: jturolla
 github_username: jturolla
